@@ -11,13 +11,21 @@
 ## 支持解压缩类型
 
 > tar –xvf file.tar
+>
 > tar -xzvf file.tar.gz
+>
 > gunzip FileName.gz
+>
 > tar -xjvf file.tar.bz2 
-> tar –xZvf file.tar.Z 
-> unrar e file.rar 
+>
+> tar –xZvf file.tar.Z
+>
+> unrar e file.rar
+>
 > unzip file.zip 
+>
 > tar -xvf file.tar.xz
+>
 
 ## 使用方法
 
