@@ -8,7 +8,7 @@
 
 using namespace std;
 using namespace boost;
-using std:: vector;
+using std::vector;
 
 class Tareverything {
     public :
@@ -22,7 +22,6 @@ class Tareverything {
 void Tareverything::tar_command(string& command){
     system(command.data());
 }
-
 
 void Tareverything::write_para(string& path_and_filename) {
     vector<string> fields;
