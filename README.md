@@ -2,7 +2,7 @@
 
 ## 编译条件
 
-> 1.c++ boost库，Ubuntu下 使用sudo apt install liboost-all-dev命令安装；
+> 1.c++ boost库，Ubuntu下 使用sudo apt install libboost-all-dev命令安装；
 >
 > 2.make && sudo make install
 
