@@ -1,4 +1,4 @@
-EXEC = tareverything
+EXEC = te
 
 BIN_DIR = /usr/bin/
 
